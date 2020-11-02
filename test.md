@@ -7,7 +7,7 @@
 
 * name: Happy Flower
 * type: tutorial
-* description: Get started creating a simple game to chase a pizza around the screen and collect as many points as possible before time runs out!
+* description: Create a flower that sends back happy bees
 * tags: easy, botanical
 * next: bball
 
@@ -42,7 +42,7 @@
 ## pizza
 
 * name: Chase the Pizza
-* description: Jump and run to avoid the barrels
+* description: Get started creating a simple game to chase a pizza around the screen and collect as many points as possible before time runs out!
 * type: tutorial
 * next: lemon
 
@@ -52,7 +52,7 @@
 ## lemon
 
 * name: Lemon Leak
-* description: Jump and run to avoid the barrels
+* description: Stay away from the wild strawberries or you'll lose your juice!
 * type: tutorial
 
 * url: /tutorials/barrel-dodger
@@ -78,7 +78,7 @@
 
 * name: Walking Hero
 * type: tutorial
-* description: Take your best shot and slam dunk this Basketball free throw game!
+* description: Make your own characters for games. Concepts: Creating sprites, Image editor, Moving sprites
 * tags: easy
 * next: barrel2
 
@@ -86,8 +86,8 @@
 
 ## barrel2
 
-* name: Effects
-* description: Jump and run to avoid the barrels
+* name: Breaadcrumb Trail
+* description: Use tilemaps to place sprites at different positions on the screen. Concepts: Tiles, Arrays, For Element Loops, Placing Sprites
 * type: tutorial
 * next: pizza2
 
@@ -96,7 +96,7 @@
 ## pizza2
 
 * name: Star Field
-* description: Jump and run to avoid the barrels
+* description: Having stars moving in the background of your scene is an effective way to show motion for a game that's set in space. Stars filling the screen as moving projectiles can create an illusion of a player sprite speeding through space, even if it remains at the same location on the screen.
 * type: tutorial
 * next: lemon2
 
@@ -105,8 +105,8 @@
 
 ## lemon2
 
-* name: Pet the Dog
-* description: Jump and run to avoid the barrels
+* name: Setting the Scene
+* description: Design tilemaps to create scenes and levels for players to explore. Concepts: Tilemaps, Tile Images, Walls
 * type: tutorial
 * next: math2
 
@@ -115,8 +115,8 @@
 
 ## math2
 
-* name: Fractals
-* description: Jump and run to avoid the barrels
+* name: Throw a Bone
+* description: Learn about how projectiles and button events work by throwing a bone. New Concepts: Controller button events, projectiles
 * type: tutorial
 
 * url: /tutorials/barrel-dodger
