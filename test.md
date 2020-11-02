@@ -16,7 +16,6 @@
 * largeImageUrl: /static/tutorials/happy-flower.gif
 * videoUrl: /static/tutorials/happy-flower.mp4
 
-
 ## bball
 
 * name: Free Throw
@@ -30,15 +29,35 @@
 * largeImageUrl: /static/tutorials/free-throw.gif
 * videoUrl: /static/tutorials/free-throw.mp4
 
-
 ## barrel
 
 * name: Barrel Dodger
 * description: Jump and run to avoid the barrels
 * type: tutorial
+* next: pizza
 
 * url: /tutorials/barrel-dodger
 * imageUrl: /static/lessons/barrel-dodger.png
+
+## pizza
+
+* name: Chase the Pizza
+* description: Jump and run to avoid the barrels
+* type: tutorial
+* next: lemon
+
+* url: /tutorials/barrel-dodger
+* imageUrl: /static/lessons/barrel-dodger.png
+
+## lemon
+
+* name: Lemon Leak
+* description: Jump and run to avoid the barrels
+* type: tutorial
+
+* url: /tutorials/barrel-dodger
+* imageUrl: /static/lessons/barrel-dodger.png
+
 
 # map2
 * name: test skills map2
@@ -55,7 +74,6 @@
 
 * url: /tutorials/happy-flower
 
-
 ## bball2
 
 * name: Walking Hero
@@ -71,5 +89,35 @@
 * name: Effects
 * description: Jump and run to avoid the barrels
 * type: tutorial
+* next: pizza2
 
 * url: /tutorials/barrel-dodger
+
+## pizza2
+
+* name: Star Field
+* description: Jump and run to avoid the barrels
+* type: tutorial
+* next: lemon2
+
+* url: /tutorials/barrel-dodger
+* imageUrl: /static/lessons/barrel-dodger.png
+
+## lemon2
+
+* name: Pet the Dog
+* description: Jump and run to avoid the barrels
+* type: tutorial
+* next: math2
+
+* url: /tutorials/barrel-dodger
+* imageUrl: /static/lessons/barrel-dodger.png
+
+## math2
+
+* name: Fractals
+* description: Jump and run to avoid the barrels
+* type: tutorial
+
+* url: /tutorials/barrel-dodger
+* imageUrl: /static/lessons/barrel-dodger.png
