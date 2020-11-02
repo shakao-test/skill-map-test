@@ -18,7 +18,7 @@
 
 ## bball
 
-* name: Free Throw
+* name: Free Throw Tutorial - Slam Dunk a Basketball
 * type: tutorial
 * description: Take your best shot and slam dunk this Basketball free throw game!
 * tags: easy
