@@ -105,7 +105,7 @@
 
 ## lemon2
 
-* name: Setting the Scene
+* name: Setting the Scene and Designing Tilemaps in Your Game
 * description: Design tilemaps to create scenes and levels for players to explore. Concepts: Tilemaps, Tile Images, Walls
 * type: tutorial
 * next: math2
