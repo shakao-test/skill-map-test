@@ -86,7 +86,7 @@
 
 ## barrel2
 
-* name: Breaadcrumb Trail
+* name: Breadcrumb Trail
 * description: Use tilemaps to place sprites at different positions on the screen. Concepts: Tiles, Arrays, For Element Loops, Placing Sprites
 * type: tutorial
 * next: pizza2
