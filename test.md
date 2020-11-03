@@ -12,7 +12,7 @@
 * next: bball
 
 * url: /tutorials/happy-flower
-* imageUrl: /static/tutorials/happy-flower.png
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 * largeImageUrl: /static/tutorials/happy-flower.gif
 * videoUrl: /static/tutorials/happy-flower.mp4
 
@@ -25,7 +25,7 @@
 * next: barrel
 
 * url: /tutorials/free-throw
-* imageUrl: /static/tutorials/free-throw.png
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 * largeImageUrl: /static/tutorials/free-throw.gif
 * videoUrl: /static/tutorials/free-throw.mp4
 
@@ -47,7 +47,7 @@
 * next: lemon
 
 * url: /tutorials/barrel-dodger
-* imageUrl: /static/lessons/barrel-dodger.png
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
 ## lemon
 
@@ -56,7 +56,7 @@
 * type: tutorial
 
 * url: /tutorials/barrel-dodger
-* imageUrl: /static/lessons/barrel-dodger.png
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
 
 # map2
@@ -73,6 +73,7 @@
 * next: bball2
 
 * url: /tutorials/happy-flower
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
 ## bball2
 
@@ -83,6 +84,7 @@
 * next: barrel2
 
 * url: /tutorials/free-throw
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
 ## barrel2
 
@@ -92,6 +94,7 @@
 * next: pizza2
 
 * url: /tutorials/barrel-dodger
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
 ## pizza2
 
@@ -101,7 +104,7 @@
 * next: lemon2
 
 * url: /tutorials/barrel-dodger
-* imageUrl: /static/lessons/barrel-dodger.png
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
 ## lemon2
 
@@ -111,7 +114,7 @@
 * next: math2
 
 * url: /tutorials/barrel-dodger
-* imageUrl: /static/lessons/barrel-dodger.png
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
 ## math2
 
@@ -120,4 +123,4 @@
 * type: tutorial
 
 * url: /tutorials/barrel-dodger
-* imageUrl: /static/lessons/barrel-dodger.png
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
