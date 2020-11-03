@@ -1,9 +1,13 @@
-# map1
+# Game Maker Guide
+* description: Level up your game making skills by completing the tutorials in this guide.
+* infoUrl: /docs/educator-info
+
+## map1
 * name: test skills map
 * description: A test skills map
 * required: 2 easy
 
-## flower
+### flower
 
 * name: Happy Flower
 * type: tutorial
@@ -16,7 +20,7 @@
 * largeImageUrl: /static/tutorials/happy-flower.gif
 * videoUrl: /static/tutorials/happy-flower.mp4
 
-## bball
+### bball
 
 * name: Free Throw Tutorial - Slam Dunk a Basketball
 * type: tutorial
@@ -29,7 +33,7 @@
 * largeImageUrl: /static/tutorials/free-throw.gif
 * videoUrl: /static/tutorials/free-throw.mp4
 
-## barrel
+### barrel
 
 * name: Barrel Dodger
 * description: Jump and run to avoid the barrels
@@ -39,7 +43,7 @@
 * url: /tutorials/barrel-dodger
 * imageUrl: /static/lessons/barrel-dodger.png
 
-## pizza
+### pizza
 
 * name: Chase the Pizza
 * description: Get started creating a simple game to chase a pizza around the screen and collect as many points as possible before time runs out!
@@ -49,7 +53,7 @@
 * url: /tutorials/barrel-dodger
 * imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
-## lemon
+### lemon
 
 * name: Lemon Leak
 * description: Stay away from the wild strawberries or you'll lose your juice!
@@ -59,12 +63,12 @@
 * imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
 
-# map2
+## map2
 * name: test skills map2
 * description: A test skills map
 * required: 2 easy
 
-## flower2
+### flower2
 
 * name: Chase the Pizza
 * type: tutorial
@@ -75,7 +79,7 @@
 * url: /tutorials/happy-flower
 * imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
-## bball2
+### bball2
 
 * name: Walking Hero
 * type: tutorial
@@ -86,7 +90,7 @@
 * url: /tutorials/free-throw
 * imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
-## barrel2
+### barrel2
 
 * name: Breadcrumb Trail
 * description: Use tilemaps to place sprites at different positions on the screen. Concepts: Tiles, Arrays, For Element Loops, Placing Sprites
@@ -96,7 +100,7 @@
 * url: /tutorials/barrel-dodger
 * imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
-## pizza2
+### pizza2
 
 * name: Star Field
 * description: Having stars moving in the background of your scene is an effective way to show motion for a game that's set in space. Stars filling the screen as moving projectiles can create an illusion of a player sprite speeding through space, even if it remains at the same location on the screen.
@@ -106,7 +110,7 @@
 * url: /tutorials/barrel-dodger
 * imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
-## lemon2
+### lemon2
 
 * name: Setting the Scene and Designing Tilemaps in Your Game
 * description: Design tilemaps to create scenes and levels for players to explore. Concepts: Tilemaps, Tile Images, Walls
@@ -116,7 +120,7 @@
 * url: /tutorials/barrel-dodger
 * imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
-## math2
+### math2
 
 * name: Throw a Bone
 * description: Learn about how projectiles and button events work by throwing a bone. New Concepts: Controller button events, projectiles
