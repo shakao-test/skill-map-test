@@ -41,7 +41,7 @@
 * next: pizza
 
 * url: /tutorials/barrel-dodger
-* imageUrl: /static/lessons/barrel-dodger.png
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
 
 ### pizza
 
