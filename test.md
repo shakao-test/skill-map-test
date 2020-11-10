@@ -128,3 +128,19 @@
 
 * url: /tutorials/barrel-dodger
 * imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
+
+
+## map3
+* name: small map
+* description: A test skills map
+
+### flower
+
+* name: Happy Flower
+* type: tutorial
+* description: Create a flower that sends back happy bees
+* tags: easy, botanical
+* next: bball
+
+* url: /tutorials/happy-flower
+* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
