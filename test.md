@@ -134,7 +134,7 @@
 * name: small map
 * description: A test skills map
 
-### flower
+### flower4
 
 * name: Happy Flower
 * type: tutorial
