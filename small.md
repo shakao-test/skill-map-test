@@ -11,6 +11,5 @@
 * name: Create a Hero
 * type: tutorial
 * description: Create a main character that shoots some projectiles
-* next: enemy
 * url: /tutorials/happy-flower
 * tags: easy
