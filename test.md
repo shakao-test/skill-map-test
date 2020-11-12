@@ -21,7 +21,7 @@
 * name: Happy Flower
 * type: tutorial
 * description: Create a flower that sends back happy bees
-* tags: easy, blocks
+* tags: easy, blocks, random
 * next: lemon
 
 * url: /tutorials/happy-flower
@@ -32,7 +32,7 @@
 * name: Lemon Leak
 * description: Stay away from the wild strawberries or you'll lose your juice!
 * type: tutorial
-* tags: easy, blocks
+* tags: easy, blocks, kinds
 * next: bball
 
 * url: /tutorials/lemon-leak
@@ -43,7 +43,7 @@
 * name: Free Throw
 * type: tutorial
 * description: Take your best shot and slam dunk this Basketball free throw game!
-* tags: easy, blocks
+* tags: easy, blocks, variables
 * next: nametag
 
 * url: /tutorials/free-throw
@@ -51,14 +51,46 @@
 
 ### nametag
 
-* name: A simple name tag with cool effects
+* name: Name Tag
 * type: tutorial
-* description: Take your best shot and slam dunk this Basketball free throw game!
+* description: A simple name tag with cool effects
 * tags: easy, blocks
+* next: starfield
 
 * url: /tutorials/name-tag
 * imageUrl: /static/tutorials/name-tag.png
 
+### starfield
+
+* name: Star Field
+* type: tutorial
+* description: Create a starry night for the next hit space game.
+* tags: easy, effects, random
+* next: hero
+
+* url: /concepts/star-field
+* imageUrl: /static/concepts/star-field.png
+
+### hero
+
+* name: Walking Hero
+* type: tutorial
+* description: Make your own characters for games.
+* tags: easy, variables
+* next: burger
+
+* url: /concepts/walking-hero
+* imageUrl: /static/concepts/walking-hero.png
+
+### burger
+
+* name: Bouncing Burger
+* type: tutorial
+* description: Create a sprite that will bounce around the screen.
+* tags: easy, variables, properties
+
+* url: /concepts/bouncing-burger
+* imageUrl: /static/concepts/bouncing-burger.png
 
 ## medium
 * name: Intermediate Path
@@ -81,7 +113,7 @@
 * name: Barrel Dodger
 * description: Jump and run to avoid the barrels
 * type: tutorial
-* tags: medium, random
+* tags: medium, events, random
 * next: clovers
 
 * url: /tutorials/barrel-dodger
@@ -92,7 +124,7 @@
 * name: Collect the Clovers
 * description: Create a garden to collect 4-leaf clovers, avoid the bees!
 * type: tutorial
-* tags: medium, scope
+* tags: medium, scope, kinds
 * next: paddle
 
 * url: /tutorials/collect-the-clovers
@@ -103,7 +135,7 @@
 * name: Paddle
 * description: A variation on the 2 player pong game
 * type: tutorial
-* tags: medium, kinds
+* tags: medium, events, kinds
 
 * url: /tutorials/paddle
 * imageUrl: /static/tutorials/paddle.png
