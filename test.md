@@ -1,145 +1,109 @@
 # Game Maker Guide
 * description: Level up your game making skills by completing the tutorials in this guide.
-* infoUrl: /docs/educator-info
 
-## map1
-* name: test skills map
-* description: A test skills map
-* required: 2 easy
+## easy
+* name: Beginner Path
+* description: Start here! A series of introductions to different concepts in MakeCode Arcade.
+
+### pizza
+
+* name: Chase the Pizza
+* type: tutorial
+* description: Get started creating a simple game to chase a pizza around the screen and collect as many points as possible before time runs out!
+* tags: easy, blocks
+* next: flower
+
+* url: /tutorials/chase-the-pizza
+* imageUrl: /static/tutorials/chase-the-pizza.png
 
 ### flower
 
 * name: Happy Flower
 * type: tutorial
 * description: Create a flower that sends back happy bees
-* tags: easy, botanical
-* next: bball
-
-* url: /tutorials/happy-flower
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
-* largeImageUrl: /static/tutorials/happy-flower.gif
-* videoUrl: /static/tutorials/happy-flower.mp4
-
-### bball
-
-* name: Free Throw Tutorial - Slam Dunk a Basketball
-* type: tutorial
-* description: Take your best shot and slam dunk this Basketball free throw game!
-* tags: easy
-* next: barrel
-
-* url: /tutorials/free-throw
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
-* largeImageUrl: /static/tutorials/free-throw.gif
-* videoUrl: /static/tutorials/free-throw.mp4
-
-### barrel
-
-* name: Barrel Dodger
-* description: Jump and run to avoid the barrels
-* type: tutorial
-* next: pizza
-
-* url: /tutorials/barrel-dodger
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
-
-### pizza
-
-* name: Chase the Pizza
-* description: Get started creating a simple game to chase a pizza around the screen and collect as many points as possible before time runs out!
-* type: tutorial
+* tags: easy, blocks
 * next: lemon
 
-* url: /tutorials/barrel-dodger
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
+* url: /tutorials/happy-flower
+* imageUrl: /static/tutorials/happy-flower.png
 
 ### lemon
 
 * name: Lemon Leak
 * description: Stay away from the wild strawberries or you'll lose your juice!
 * type: tutorial
+* tags: easy, blocks
+* next: bball
 
-* url: /tutorials/barrel-dodger
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
+* url: /tutorials/lemon-leak
+* imageUrl: /static/tutorials/lemon-leak.png
 
+### bball
 
-## map2
-* name: test skills map2
-* description: A test skills map
-* required: 2 easy
-
-### flower2
-
-* name: Chase the Pizza
+* name: Free Throw
 * type: tutorial
-* description: Get started creating a simple game to chase a pizza around the screen and collect as many points as possible before time runs out!
-* tags: easy, botanical
-* next: bball2
-
-* url: /tutorials/happy-flower
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
-
-### bball2
-
-* name: Walking Hero
-* type: tutorial
-* description: Make your own characters for games. Concepts: Creating sprites, Image editor, Moving sprites
-* tags: easy
-* next: barrel2
+* description: Take your best shot and slam dunk this Basketball free throw game!
+* tags: easy, blocks
+* next: nametag
 
 * url: /tutorials/free-throw
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
+* imageUrl: /static/tutorials/free-throw.png
 
-### barrel2
+### nametag
 
-* name: Breadcrumb Trail
-* description: Use tilemaps to place sprites at different positions on the screen. Concepts: Tiles, Arrays, For Element Loops, Placing Sprites
+* name: A simple name tag with cool effects
 * type: tutorial
-* next: pizza2
+* description: Take your best shot and slam dunk this Basketball free throw game!
+* tags: easy, blocks
+
+* url: /tutorials/name-tag
+* imageUrl: /static/tutorials/name-tag.png
+
+
+## medium
+* name: Intermediate Path
+* description: You've leveled up! Continue your journey with these intermediate tutorials.
+* required: 2 easy
+
+### galga
+
+* name: Galga
+* description: Fly through the attacking spacecraft and fire darts at them, don't get hit!
+* type: tutorial
+* tags: medium, events
+* next: barrel
+
+* url: /tutorials/galga
+* imageUrl: /static/tutorials/galga.png
+
+### barrel
+
+* name: Barrel Dodger
+* description: Jump and run to avoid the barrels
+* type: tutorial
+* tags: medium, random
+* next: clovers
 
 * url: /tutorials/barrel-dodger
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
+* imageUrl: /static/lessons/barrel-dodger.png
 
-### pizza2
+### clovers
 
-* name: Star Field
-* description: Having stars moving in the background of your scene is an effective way to show motion for a game that's set in space. Stars filling the screen as moving projectiles can create an illusion of a player sprite speeding through space, even if it remains at the same location on the screen.
+* name: Collect the Clovers
+* description: Create a garden to collect 4-leaf clovers, avoid the bees!
 * type: tutorial
-* next: lemon2
+* tags: medium, scope
+* next: paddle
 
-* url: /tutorials/barrel-dodger
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
+* url: /tutorials/collect-the-clovers
+* imageUrl: /static/tutorials/collect-the-clovers.png
 
-### lemon2
+### paddle
 
-* name: Setting the Scene and Designing Tilemaps in Your Game
-* description: Design tilemaps to create scenes and levels for players to explore. Concepts: Tilemaps, Tile Images, Walls
+* name: Paddle
+* description: A variation on the 2 player pong game
 * type: tutorial
-* next: math2
+* tags: medium, kinds
 
-* url: /tutorials/barrel-dodger
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
-
-### math2
-
-* name: Throw a Bone
-* description: Learn about how projectiles and button events work by throwing a bone. New Concepts: Controller button events, projectiles
-* type: tutorial
-
-* url: /tutorials/barrel-dodger
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
-
-
-## map3
-* name: small map
-* description: A test skills map
-
-### flower4
-
-* name: Happy Flower
-* type: tutorial
-* description: Create a flower that sends back happy bees
-* tags: easy, botanical
-
-* url: /tutorials/happy-flower
-* imageUrl: https://pxt.azureedge.net/blob/6d484ada400110d8ed4e7370bf62edb26081f8f7/static/tutorials/lemon-leak.png
+* url: /tutorials/paddle
+* imageUrl: /static/tutorials/paddle.png
