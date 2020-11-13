@@ -4,6 +4,7 @@
 ## easy
 * name: Beginner Path
 * description: Start here! A series of introductions to different concepts in MakeCode Arcade.
+* completionUrl: https://onedrive.live.com/?authkey=%21ANji2pzt2E0MlNc&cid=416406873CB120AB&id=416406873CB120AB%211964&parId=416406873CB120AB%211963&o=OneUp
 
 ### pizza
 
@@ -96,6 +97,7 @@
 * name: Intermediate Path
 * description: You've leveled up! Continue your journey with these intermediate tutorials.
 * required: 2 easy
+* completionUrl: https://onedrive.live.com/?authkey=%21ANji2pzt2E0MlNc&cid=416406873CB120AB&id=416406873CB120AB%211964&parId=416406873CB120AB%211963&o=OneUp
 
 ### galga
 
